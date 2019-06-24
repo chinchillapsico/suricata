@@ -1,0 +1,35 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.pink{
+  background-color: #e83e8c;
+}
+.icons-section{
+  background-color: #17A2B8;
+}
+.logo-suricata{
+  max-width: 30%;
+}
+.logo-suricata-footer{
+  max-width: 10%;
+}
+
+.bold{
+  font-weight: bold;
+}
+.titulo{
+  color: #707070;
+  margin-top: 1em;
+  font-size: 4em;
+}
+/*.carousel-indicators {
+  top: 50px;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+*/
